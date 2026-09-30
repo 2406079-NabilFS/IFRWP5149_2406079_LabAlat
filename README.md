@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **Email: akunabilfawwaz24@gmail.com | GitHub: 2406079-NabilIFS**
 
-- ⚡ Fun fact **Fun fact: I don't find bugs, bugs find me.**
+- ⚡ Fun fact I don't find bugs, bugs find me.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
