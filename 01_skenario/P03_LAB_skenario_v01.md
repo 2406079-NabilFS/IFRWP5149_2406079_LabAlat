@@ -33,3 +33,12 @@ Petugas laboratorium    Asosiasi    LAB-UC06
 Kepala laboratorium     Asosiasi    LAB-UC07
 LAB-UC03                «include»   LAB-UC04
 LAB-UC05                «extend»    LAB-UC03
+
+ID          Nama use case                   Peran dalam model
+LAB-UC01    Lihat ketersediaan peralatan    Fungsi utama mahasiswa
+LAB-UC02    Kelola data peralatan           Fungsi utama petugas
+LAB-UC03    Ajukan peminjaman               Fungsi utama mahasiswa
+LAB-UC04    Periksa ketersediaan            Perilaku yang disertakan UC03
+LAB-UC05    Cetak bukti pengajuan           Tambahan bersyarat pada UC03
+LAB-UC06    Proses keputusan peminjaman     Fungsi utama petugas
+LAB-UC07    Lihat laporan peminjaman        Fungsi utama kepala laboratorium
